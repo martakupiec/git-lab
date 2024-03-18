@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pierwsza strona</title>
+</head>
+<body>
+    <p>Charles Leclerc <br> Charles Leclerc</p>
+    <p> <b> Charles Leclerc</b></p>
+    <p> <i> I'M STUPID</i></p>
+    <p> <u> IT'S NEAR A FISH</u></p>
+    <p style="font-family:verdana;"> Charles Leclerc</p>
+    <p style="font-family:verdana;"> <b> <i> <u> Charles Leclerc</u></i></b></p>
+    <p> <img src= "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6S8inb9dAUWZkC963VFKgejrJnDQdiIbwSIDBzN5y4v6rnA41Z2Oe6eCgx8-7rUYKfNiRyG6Fl3JbD_woyYTu7qVFHNGC2FR3-PmHCXa6Fnd-xAk7vhmSrvS_Ps5eE3RyJLL2qbpPXGWCDqtkq12lVt7Sbv21leP9_uvwe3XEQmXBrwIlDCseDwEzm1o/s6000/230052-ferrari-scuderia-azerbaijan-2023-leclerc-race-1_e2397be2-4ceb-4e22-99e3-7c877fc3d040.jpg" width = "1200" height = "700"></p>
+    <a href="https://www.youtube.com/watch?v=uF2yZZ7goJ0">Link do podstrony</a>
+    <p><a href="https://jpai2024.grochot.me/grochot/Instrukcja-II-HTML-CSS-71525890c86c4751b84ed52b926fa411">Link do strony internetowej</a></p>
+    <p><a href="mailto:makupiec@student.agh.edu.pl">Odsyłacz pocztowy</a></p>
+    <p><a href="podstrona.html"> </a></p>
+    <p><button type = "button" >kliknij mnie</button></p>
+    <p><q>HE WON IN SPA, HE WINS IN MONZA</q></p>
+    <p>to jest <sup>indeks górny</sup></p>
+    <p>to jest <sub>indekt dolny</sub></p>
+</body>
+</html>
